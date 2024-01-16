@@ -7,11 +7,11 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "apollo-boost": "^0.4.9",
-    "baseui": "^12.2.0",
+    "baseui": "^10.9.2",
     "bootstrap": "^5.2.3",
     "chart.js": "^4.2.0",
     "fs": "^0.0.1-security",
-    "glamor": "^2.20.40",
+    "glamor": "^2.17.9",
     "graphql": "^15.8.0",
     "node-fetch": "^3.3.0",
     "radium": "^0.26.2",
@@ -25,7 +25,7 @@
     "react-reveal": "^1.2.2",
     "react-rounded-image": "^2.0.14",
     "react-router-dom": "^6.8.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "react-spring": "^9.6.1",
     "react-tooltip": "^5.7.1",
     "styled-components": "^5.3.6",
@@ -57,5 +57,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
