@@ -772,39 +772,7 @@ const projects = {
         
       ],
     },
-    {
-      id: "project-5",
-      name: "Portfolio",
-      url: "",
-      repoUrl: "https://github.com/sumit-sharma-02/sumit-portfolio",
-      description: "You are watching it right now 😉.",
-      languages: [
-        {
-          name: "React",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "React Reveal",
-          iconifyClass: "simple-icons:scrollreveal",
-        },
-        {
-          name: "Styled Components",
-          iconifyClass: "vscode-icons:file-type-styled",
-        },
-      ],
-    },
+    
     {
       id: "project-6",
       name: "Travel Website",
@@ -868,11 +836,11 @@ const projects = {
     },
     {
       id: "project-8",
-      name: "Random Quote Generator",
-      url: "https://surya-v-28.github.io/RandomQuote/",
-      repoUrl: "https://github.com/Surya-V-28/RandomQuote/tree/main",
+      name: "ML AI Data Science Models",
+      url: "",
+      repoUrl: "https://github.com/Surya-V-28/ML-AI-DataScience",
       description:
-        "A React application which shows the random quotes everytime you need",
+        " Churn Analysis, Sentiment Analysis, automations of Recommended System, Classifications (Ensemble Learning), Regressions, Basic of NLP,  Anomaly detection using One class SVM, Isolation Forest, GMM,  Computer Vision, Image detections, and NLP Problems",
       languages: [
         {
           name: "React",
@@ -899,8 +867,77 @@ const projects = {
           iconifyClass: "vscode-icons:file-type-css",
         },
       ]
-    }
+    }, 
+    {
+      id: "project-9",
+      name: "Random Quote Generator",
+      url: "https://surya-v-28.github.io/RandomQuote/",
+      repoUrl: "https://github.com/Surya-V-28/RandomQuote/tree/main",
+      description:
+        "A React application which shows the random quotes everytime you need",
+      languages: [
+        {
+          name: "Python",
+          iconifyClass: "logos:python",
+        },
+        {
+          name: "SQL",
+          iconifyClass: "logos:mysql",
+        },
+        {
+          name: "pandas",
+          iconifyClass: "logos:pandas",
+        },
+        {
+          name: "numpy",
+          iconifyClass: "logos:numpy",
+        },
+        {
+          name: "pytorch",
+          iconifyClass: "logos:pytorch",
+        },
+        {
+          name: "tensorflow",
+          iconifyClass: "logos:tensorflow",
+        },
+
+      ]
+    },
+    {
+      id: "project-5",
+      name: "Portfolio",
+      url: "",
+      repoUrl: "https://github.com/surya-v-28/",
+      description: "You are watching it right now 😉.",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "React Reveal",
+          iconifyClass: "simple-icons:scrollreveal",
+        },
+        {
+          name: "Styled Components",
+          iconifyClass: "vscode-icons:file-type-styled",
+        },
+      ],
+    },
   ],
+  
 };
 
 // Contact Page
