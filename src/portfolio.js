@@ -9,12 +9,12 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hi",
-  title2: "I'm Surya V, B.Sc CS",
+  title2: "I'm Surya V, MCA      ",
   logo_name: "Surya ",
   full_name: "Surya V",
   subTitle1: "Full Stack Developer.",
-  subTitle2: "Data Science and Mainframe.",
-  subTitle: "Full Stack Developer, Life Long Learner.",
+  subTitle2: "Data Science",
+  subTitle: "Web Stack Developer",
   resumeLink:
     "https://drive.google.com/file/d/175Wj7r5gtyMV2zEHfrJ2patQP1VWtxHP/view?usp=sharing",
   mail: "mailto:surya.woot.231@gmail.com",
@@ -328,7 +328,18 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Christ University ,Bangalore, Karnatake",
+      title: "Vellore Institute of Technology  (VIT), Vellore, Tamil Nadu",
+      subtitle: "Master of Computer Applications",
+      logo_path: "VIT.png",
+      alt_name: "Vellore Institute of Technology",
+      duration: "2024 - Present",
+      descriptions: [
+        "⚡VITMEE Rank - 75"
+         ],
+      website_link: "https://vit.ac.in/",
+    },
+    {
+      title: "Christ University ,Bangalore, Karnataka",
       subtitle: "B.Sc Computer Science and Mathematics and Electronics(CME)",
       logo_path: "Christ_Logo.png",
       alt_name: "Christ University",
@@ -570,12 +581,26 @@ const experience = {
     title: "Work Experience",
     experiences: [
       {
+        title: "Trainee",
+        company: "The Adecco Group - LHH Global",
+        company_url: "https://www.adeccogroup.com/",
+        logo_path: "Adecco.png",
+        alt_name: "ottonomy-logo",
+        duration: "(October, 2023 - June, 2024)",
+        location: "Bangalore, Karnataka",
+        description: "<li><strong>Award & Recognition:</strong> Awarded 'Team Player of the Month' for maintaining high collaboration within the team and achieving outstanding results.</li><br><li><strong>Transferable Skills & Job Matching:</strong> Identified transferable skills and matched candidates with suitable job opportunities.</li><br><li><strong>Resume & LinkedIn Optimization:</strong> Optimized resumes and LinkedIn profiles, and provided targeted skills training.</li><br><li><strong>Mock Interviews & Career Guidance:</strong> Conducted mock interviews and offered personalized career guidance.</li><br>",
+        // description: "<li><strong>Transferable Skills & Job Matching:</strong> Identified transferable skills and matched candidates with suitable job opportunities.</li><br><li><strong>Resume & LinkedIn Optimization:</strong> Optimized resumes and LinkedIn profiles, and provided targeted skills training.</li><br><li><strong>Mock Interviews & Career Guidance:</strong> Conducted mock interviews and offered personalized career guidance.</li><br>",
+        // description: "<li> <strong>Tech Stack:</strong> Built a user-friendly website using HTML, CSS, JavaScript, and APIs, leveraging the MERN Stack for the task.</li><br><li> <strong>REST API for Discussion Forum:</strong>  Symphony & Twig based Forum parts converted to an API-first interface.</li><br><li> <strong>Database Setup:</strong>  Integrated Firebase to enable real-time updates and efficient data storage, enhancing the website/’s responsiveness and user experience. </li><br>",
+        color: "#FFFFFF",
+        
+      },
+      {
         title: "Web Developer Intern",
         company: "Null Class Pvt Ltd",
         company_url: "https://nullclass.com/",
         logo_path: "nullclass.avif",
         alt_name: "ottonomy-logo",
-        duration: "(August, 2023 - Present)",
+        duration: "(June, 2023 - August, 2023)",
         location: "Bangalore (Remote)",
         description: "<li> <strong>Tech Stack:</strong> Built a user-friendly website using HTML, CSS, JavaScript, and APIs, leveraging the MERN Stack for the task.</li><br><li> <strong>REST API for Discussion Forum:</strong>  Symphony & Twig based Forum parts converted to an API-first interface.</li><br><li> <strong>Database Setup:</strong>  Integrated Firebase to enable real-time updates and efficient data storage, enhancing the website/’s responsiveness and user experience. </li><br>",
         color: "#000000",
@@ -689,7 +714,7 @@ const projects = {
     {
       id: "project-2",
       name: "Quills (SaaS) PDF Chatter",
-      url: "",
+      url: "https://drive.google.com/file/d/1gstj1vRa0qZ5s0iIeHShNCBhURUficq0/view",
       repoUrl: "https://github.com/Surya-V-28/SaaS-PDF",
       description:
         "Revolutionized SaaS platforms with secure authentication, Stripe Pro plans, and PostgreSQL with Prisma. Specialized in Custom Spring Boot restAPI Responses, TypeScript,Back end AWS S3 integration, and ML pipeline simplification with tutorials. Tech: Python, LLM, API, PostgreSQL, Next, Node.js, React.js, Stripe, AWS, TailWind CSS,  Spring boot Rest Apis, JavaScript, CI/CD Implementations ",
@@ -749,7 +774,7 @@ const projects = {
     {
       id: "project-4",
       name: "Movies Backend using Spring Boot",
-      url: "",
+      url: "https://drive.google.com/file/d/12-AzwCBNslAP5fzejAxNLHMA2reqi5VY/view",
       repoUrl: "https://github.com/Surya-V-28/Spring_Java_Backend_Movies",
       description: "Movies backend provies the fetch of list of 25 movies , Spring MVC ,JPA, J2EE, Hibernate,Spring Security also included.",
       languages: [
