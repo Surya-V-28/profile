@@ -16,7 +16,7 @@ const greeting = {
   subTitle2: "Data Science",
   subTitle: "Web Stack Developer",
   resumeLink:
-    "https://drive.google.com/file/d/175Wj7r5gtyMV2zEHfrJ2patQP1VWtxHP/view?usp=sharing",
+    "https://drive.google.com/file/d/175Wj7r5gtyMV2zEHfrJ2patQ4esP1VWtxHP/view?usp=sharing",
   mail: "mailto:surya.woot.231@gmail.com",
 };
 
