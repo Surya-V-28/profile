@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.338d9365.css",
-    "main.js": "/profile/static/js/main.dcae14fc.js",
+    "main.js": "/profile/static/js/main.e75d05b0.js",
     "static/media/mail.gif": "/profile/static/media/mail.b8b1eae025a861cda69a.gif",
     "static/media/fa-solid-900.svg": "/profile/static/media/fa-solid-900.decfdcb63165be4a18b6.svg",
     "static/media/fa-brands-400.svg": "/profile/static/media/fa-brands-400.d21386c92d7f4fbf03dc.svg",
     "static/media/waving-hand.png": "/profile/static/media/waving-hand.a720748e68c94f8795e8.png",
+    "static/media/portfolioProfileImage.png": "/profile/static/media/portfolioProfileImage.fc66f286c10f5be0fe37.png",
     "static/media/school.png": "/profile/static/media/school.5b5a0173fce6c09184f5.png",
     "static/media/Montserrat-Regular.ttf": "/profile/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/portfolioProfileImage.png": "/profile/static/media/portfolioProfileImage.6da31fdd94226e1078d3.png",
     "static/media/fa-solid-900.eot": "/profile/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "/profile/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
     "static/media/fa-regular-400.svg": "/profile/static/media/fa-regular-400.68bba3adb61c08195530.svg",
@@ -23,9 +23,12 @@
     "static/media/fa-solid-900.woff": "/profile/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/profile/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/fa-brands-400.woff": "/profile/static/media/fa-brands-400.dc957891d535aa198135.woff",
+    "static/media/logo_one.png": "/profile/static/media/logo_one.0d439a9d23a7922d6819.png",
     "static/media/amrita_logo.png": "/profile/static/media/amrita_logo.07e9c9b49b143dcb73ac.png",
     "static/media/fa-solid-900.woff2": "/profile/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/profile/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
+    "static/media/VIT.png": "/profile/static/media/VIT.85d4981a86699a536c48.png",
+    "static/media/Error detection - worksheet passage.doc": "/profile/static/media/Error detection - worksheet passage.ac1edb35a618a40c1c3b.doc",
     "static/media/Christ_Logo.png": "/profile/static/media/Christ_Logo.32607ed502bf4a99eab8.png",
     "static/media/gcp_logo.png": "/profile/static/media/gcp_logo.63bb0649c9716d110b14.png",
     "static/media/fa-regular-400.eot": "/profile/static/media/fa-regular-400.86ce78132c18df414d83.eot",
@@ -35,16 +38,17 @@
     "static/media/ibm-logo.png": "/profile/static/media/ibm-logo.518c33af403b4f2fd424.png",
     "static/media/address_image.svg": "/profile/static/media/address_image.3385d92e5e426e57a5b1.svg",
     "static/media/infosys-logo.png": "/profile/static/media/infosys-logo.d24f93aaf19c6077dd29.png",
+    "static/media/Adecco.png": "/profile/static/media/Adecco.e03adef578d017113715.png",
     "static/media/fa-regular-400.woff": "/profile/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
     "static/media/fa-regular-400.woff2": "/profile/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/ottonomy-logo.webp": "/profile/static/media/ottonomy-logo.d09b63d4a58e21792bea.webp",
     "static/media/nullclass.avif": "/profile/static/media/nullclass.398c8a96aa6df3043426.avif",
     "index.html": "/profile/index.html",
     "main.338d9365.css.map": "/profile/static/css/main.338d9365.css.map",
-    "main.dcae14fc.js.map": "/profile/static/js/main.dcae14fc.js.map"
+    "main.e75d05b0.js.map": "/profile/static/js/main.e75d05b0.js.map"
   },
   "entrypoints": [
     "static/css/main.338d9365.css",
-    "static/js/main.dcae14fc.js"
+    "static/js/main.e75d05b0.js"
   ]
 }
