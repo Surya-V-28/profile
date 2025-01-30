@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.338d9365.css",
-    "main.js": "/profile/static/js/main.e75d05b0.js",
+    "main.css": "/profile/static/css/main.b34a104c.css",
+    "main.js": "/profile/static/js/main.48e03109.js",
     "static/media/mail.gif": "/profile/static/media/mail.b8b1eae025a861cda69a.gif",
     "static/media/fa-solid-900.svg": "/profile/static/media/fa-solid-900.decfdcb63165be4a18b6.svg",
     "static/media/fa-brands-400.svg": "/profile/static/media/fa-brands-400.d21386c92d7f4fbf03dc.svg",
@@ -44,11 +44,11 @@
     "static/media/ottonomy-logo.webp": "/profile/static/media/ottonomy-logo.d09b63d4a58e21792bea.webp",
     "static/media/nullclass.avif": "/profile/static/media/nullclass.398c8a96aa6df3043426.avif",
     "index.html": "/profile/index.html",
-    "main.338d9365.css.map": "/profile/static/css/main.338d9365.css.map",
-    "main.e75d05b0.js.map": "/profile/static/js/main.e75d05b0.js.map"
+    "main.b34a104c.css.map": "/profile/static/css/main.b34a104c.css.map",
+    "main.48e03109.js.map": "/profile/static/js/main.48e03109.js.map"
   },
   "entrypoints": [
-    "static/css/main.338d9365.css",
-    "static/js/main.e75d05b0.js"
+    "static/css/main.b34a104c.css",
+    "static/js/main.48e03109.js"
   ]
 }
